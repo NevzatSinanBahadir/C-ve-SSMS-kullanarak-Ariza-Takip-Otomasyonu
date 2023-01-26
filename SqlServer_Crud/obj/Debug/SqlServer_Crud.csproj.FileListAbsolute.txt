@@ -1,0 +1,15 @@
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\obj\Debug\SqlServer_Crud.csprojAssemblyReference.cache
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\obj\Debug\SqlServer_Crud.Form1.resources
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\obj\Debug\SqlServer_Crud.Properties.Resources.resources
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\obj\Debug\SqlServer_Crud.csproj.GenerateResource.cache
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\obj\Debug\SqlServer_Crud.csproj.CoreCompileInputs.cache
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\bin\Debug\SqlServer_Crud.exe.config
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\bin\Debug\SqlServer_Crud.exe
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\bin\Debug\SqlServer_Crud.pdb
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\obj\Debug\SqlServer_Crud.exe
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\obj\Debug\SqlServer_Crud.pdb
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\obj\Debug\SqlServer_Crud.csproj.ResolveComReference.cache
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\obj\Debug\SqlServer_Crud.Form2.resources
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\obj\Debug\SqlServer_Crud.Form3.resources
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\obj\Debug\SqlServer_Crud.Form4.resources
+C:\Users\90506\source\repos\SqlServer_Crud\SqlServer_Crud\obj\Debug\SqlServer_Crud.Form5.resources
